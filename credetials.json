@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "solid-ridge-397814",
+  "private_key_id": "cd83d877cb5f0c9a3d519669b21c95844782d08e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCcbTjoNaTO1fpy\nsnbNugnCx++qrnkZgO1CRW1PMFag1brP7Vz8TLPWY2a3CIWSQpneIJRkzvv2Hmiq\n2AxPMFabx8hW1pFhh6Qqg5XoesksaySj8NUXwylAEzVGrZ+KspcegiMC6HYKfVNL\nUImsR2A21coUZnddpmAueZOMEfvu8WiWlKQs5Jiy5DlPXDcQlrHp0FfwdMtfa0kU\n100wMRT1+SDIiLJ0N6UV3yu07jiX4ufL+mnTf/D9Ft3e+w4qxe4G/m93ogeBfkuc\nj3BmGQ6ukcmfdIEXBSB8dMYYT9nPSkQh8QgI+xGBR2CREqALliJn4ih2++2IzhPm\n9jzRE5UnAgMBAAECggEAHLiNJ02aKgPtzRtpZtKOsj3FioAoaf9bELzwmgaVEUjM\n2RqK5SQsLOPpWxfsdnNWDwvKU0wRxRnGPAAZGn0UmduvtAoHfXHLOacZYisRPt+Z\nRaSVa5yAuWwNbyG31l5+ErLwPLtz2O8z2PM7o+8jAk50oRRDPGWs6TuXVLOEn1VY\nR/P++nq1kuMEcb5N1yeKDLh6QgHI5eHdwmu/Ps82HoK0HhCWa06RKfQQVOh+QR32\n2UMz69c9iYBJKPV6zSeP5as8mKcKpfVPDSBoapicHb8VT3uqdZUErPigXCGLZ5dN\nkXh/QlOBwRuM5bcZsQVLzXTVF0RgjpYW/hMGgwOl0QKBgQDPQVCfoehxQnTnvcwZ\nQu9yaCeMogo7YM/ZXFjptVBWLnseAtgg1AGY5C3iRFa/aVMpz2/pBhpwTCh5l0A/\nID4qbpcV8kjDCuvHjPrYzYLdWMNW0kMNoAZBdoWyPSEtQtXhlK82Hek33GaB386X\nh+hZcVyNrYXsjHiIkfQrVX7zPwKBgQDBN49lWsL3WGycFAEYODX5/v/Z6Wx6rywH\nGzK4nCnN9EIb3DRrgOqIg1ybZBtqmHv1D+vaU2yqDg4OTaxN7pa4Gh0NZuQO2cGp\nIjUZZMgsZE/G442zLXscVmOM2e3cB/uE78z8AOyITB0Dg3YKroxCeAIdU8I2yl36\nYhd6xWEsGQKBgFsLwFVAFRKcNSsQr7ZxNys1IhqfnIsVLnm4Hb8dTZtuc9ttOHDD\ncagupRF/H/SaWlRFsk3VxouKiUVQ8oJIscaGKo0TkG9OPuG8xv2y2khOlBFx8M7t\ne5IKdRUl0YtGjxq37HiDj05g3g8zuFfM9n9EU3pRvkF6PAESzQa0Wj6VAoGAFs9x\nXVzWsY6927s82dgg/y+MkvRMuzsc7oXWehbtlIPmnhVkFuD0T0N61ll+JxpzX94O\nUQsSRA0+uY+P7O9i2b8zeNaRy/MHOulv7VyJiTwacveATgvrgc/tFr7Ppu9GUU5i\nG8ocIoch0b1eXSp4Ioy6ay3tOryvVZTpArR0oVkCgYAvc7DM1mOLSXl/Y4d/0Xyk\nj8CuhLL27AP/k1mm8jNMF2vBQBxuIiYuRsZUWpSTO/N/yHAvt1Qehdibh4OhxHM4\nQslPGkJiROB+4t1a+qW5g63FW8/brESyAWrLtxQw3ol8sGri6aYgTZO3eP5xnv75\nNdaji0FR5SDbc/TttTuFaA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheet@solid-ridge-397814.iam.gserviceaccount.com",
+  "client_id": "112462051977135058914",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheet%40solid-ridge-397814.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
